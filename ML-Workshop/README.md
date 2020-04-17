@@ -1,4 +1,4 @@
-Linear Regression live fitting by interacting with data points!--
+Linear Regression live fitting by interacting with data points!\
 Tensorflow js and p5 js used as backend for this project!
 I tried to make Linear Regression more fun! 
 It is a supervised learning algorithm with its origins from Statistics that assumes a linear relationship between features(input classes like house, size/area) and labels(output class like price of a house).

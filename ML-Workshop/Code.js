@@ -7,7 +7,12 @@ const learningRate = 0.5;
 const optimizer = tf.train.sgd(learningRate);
 
 function setup() {
-  createCanvas(400, 400);
+  //createCanvas(500, 200);
+  var cnv = createCanvas(700, 300);
+  var x = (windowWidth - width) / 2;
+  var y = (windowHeight - height) / 2;
+  cnv.position(x, y);
+  background(255, 0, 200);
   m = tf.variable(tf.scalar(random(1)));
   b = tf.variable(tf.scalar(random(1)));
 }

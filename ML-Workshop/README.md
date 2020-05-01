@@ -1,4 +1,4 @@
-# Live Fitting
+# Live Fitting!!
 Linear and Poly Regression by interacting with data points!\
 Tensorflow js and p5 js used as backend for this project!\
 I tried to make **Linear Regression** and **Polynomial Regression** more fun!\

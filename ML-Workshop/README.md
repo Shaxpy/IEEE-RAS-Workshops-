@@ -8,4 +8,4 @@ We can observe the LIVE Working of Gradient Descent, an optimizer for Linear Reg
 Finally, Output Line is trying to fit the direction of least error.\
 We take the Learning rate as we desire here, acting as a scale factor.\
 It can be used for beginners to visualize ML, since its all about fitting the curve!\ 
-Also, **Cheers to Tensorflow.js!** 
+Also,**Cheers to Tensorflow.js!** 

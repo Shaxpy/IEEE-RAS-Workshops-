@@ -1,3 +1,6 @@
+## Demo
+https://lin-reg.herokuapp.com/
+https://poly-reg.herokuapp.com/
 # Live Fitting!!
 Linear and Poly Regression by interacting with data points!\
 Tensorflow js and p5 js used as backend for this project!\

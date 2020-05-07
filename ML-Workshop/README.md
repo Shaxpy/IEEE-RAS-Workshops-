@@ -1,5 +1,5 @@
 ## Demo
-https://lin-reg.herokuapp.com/
+https://lin-reg.herokuapp.com/\
 https://poly-reg.herokuapp.com/
 # Live Fitting!!
 Linear and Poly Regression by interacting with data points!\
